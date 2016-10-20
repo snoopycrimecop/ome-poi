@@ -81,7 +81,7 @@
         <artifactId>license-maven-plugin</artifactId>
         <version>1.9</version>
         <configuration>
-          <licenseName>bsd_2</licenseName>
+          <licenseName>apache_v2</licenseName>
           <organizationName>Open Microscopy Environment:
   - Board of Regents of the University of Wisconsin-Madison
   - Glencoe Software, Inc.

@@ -100,6 +100,8 @@
   </distributionManagement>
 
   <properties>
+    <ome-common.version>5.3.1</ome-common.version>
+
     <!-- NB: Avoid platform encoding warning when copying resources. -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
@@ -115,7 +117,7 @@
     <dependency>
       <groupId>org.openmicroscopy</groupId>
       <artifactId>ome-common</artifactId>
-      <version>5.3.1</version>
+      <version>${ome-common.version}</version>
     </dependency>
     <dependency>
       <groupId>commons-logging</groupId>

@@ -1,6 +1,6 @@
 # OME POI
 
-[![Build Status](https://travis-ci.org/ome/ome-poi.png)](http://travis-ci.org/ome/ome-poi)
+[![Build Status](https://github.com/ome/ome-poi/workflows/Maven/badge.svg)](https://github.com/ome/ome-poi/actions)
 [![Maven Central](https://img.shields.io/maven-central/v/org.openmicroscopy/ome-poi.svg)](http://search.maven.org/#search%7Cgav%7C1%7Cg%3A%22org.openmicroscopy%22%20AND%20a%3A%22ome-poi%22)
 [![Javadocs](http://javadoc.io/badge/org.openmicroscopy/ome-poi.svg)](http://javadoc.io/doc/org.openmicroscopy/ome-poi)
 

@@ -100,7 +100,7 @@
   </distributionManagement>
 
   <properties>
-    <ome-common.version>6.0.21</ome-common.version>
+    <ome-common.version>6.0.22-SNAPSHOT</ome-common.version>
 
     <!-- NB: Avoid platform encoding warning when copying resources. -->
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
